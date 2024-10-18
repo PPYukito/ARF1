@@ -1,6 +1,9 @@
 I am really into F1 Race car and their techonologies, I saw some YouTube video about F1 watching application concept for Apple's Vision Pro, and I tried to made something like that.
 
+I was using Unity verson 2022.3.22f1
+
 How to play with this application on smartphone. (Work only on Android)
+
 1. Install the build .apk file.
 2. Open the application and give the permission for using the device's camera.
    ![image](https://github.com/user-attachments/assets/a5cd606d-6987-4d6a-aae6-536f6626b95a)
@@ -15,6 +18,7 @@ How to play with this application on smartphone. (Work only on Android)
    ![image](https://github.com/user-attachments/assets/1a506c46-5481-4516-ab38-d52e53561680)
    
 10. You can look at the cart' POV by pressing the POV button. And change the cart's POV by pressing the arrow button at the POV screen.
+    
    ![image](https://github.com/user-attachments/assets/ace219a0-5842-40f5-ab6a-1fecf8b0a311)
    
    ![image](https://github.com/user-attachments/assets/c197cdd7-2407-4f56-bc74-dd74a7c351a7)
@@ -28,6 +32,12 @@ How to play with this application on smartphone. (Work only on Android)
 13. When the race is over, you can press "GO!" to start the race again, the cart speed and the result will be randomed so even I don't know the race result, Enjoy the race!!
     ![image](https://github.com/user-attachments/assets/5530bb1f-42e9-41ac-a04c-6f87bfbd202d)
 
-
 Project's QR code
 ![AR F1 Marker](https://github.com/user-attachments/assets/ff978372-139b-4cc3-ab97-37b7ac854260)
+
+How to run this project locally on Unity Project
+
+1. To run this project locally on Unity, you have to check "Test mode" on SceneManager GameObject to "true".
+   ![image](https://github.com/user-attachments/assets/5ec647a9-16dc-4da2-864d-929faca6c611)
+
+2. Now you can play the application normally.
