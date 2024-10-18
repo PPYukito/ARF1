@@ -23,7 +23,7 @@ How to play with this application on smartphone. (Work only on Android)
    
    ![image](https://github.com/user-attachments/assets/c197cdd7-2407-4f56-bc74-dd74a7c351a7)
    
-11. Open the live feed from the cart and the team (In this case is the video I got from YouTube) by pressing "Screen" button.
+11. Open the live feed from the cart and the team (In this case is the video I got from YouTube) by pressing "Screen" button. And close the screen by pressing the same button again.
     ![image](https://github.com/user-attachments/assets/081c0fef-0bec-4e10-be35-4852132a6eb5)
 
 12. Change the live feed video by pressing arrow button be side of the "Screen" button.
